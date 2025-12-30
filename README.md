@@ -34,9 +34,7 @@ This project demonstrates real-time communication, clean frontend–backend sepa
 - Axios
 
 ---
-
-## 📂 Project Structure
-
+ 📂 Project Structure
 Chat-App/
 │
 ├── chat-app-backend/        # Spring Boot backend
